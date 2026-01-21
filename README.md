@@ -1,5 +1,112 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>A full-featured eSIM web platform with multi-provider payment gateway integration (multiple APIs, webhooks, transaction tracking, and secure checkout flow).<br><br>👯 I’m looking to collaborate on:<br><br>Django / DRF backend projects<br><br>Payment systems (gateway integrations, webhooks, wallets)<br><br>Automation tools (Playwright, Celery, Redis)<br><br>Web scraping / crawler tools<br><br>🤝 I’m looking for help with:<br><br>Scaling production apps (Celery + Redis queues, load handling, Gunicorn stability)<br><br>Payment security best practices (PCI-safe flow, fraud prevention ideas)<br><br>Clean architecture for large Django projects<br><br>🌱 I’m currently learning:<br><br>Advanced Celery orchestration & distributed workers<br><br>Better DevOps deployment (systemd, Nginx, SSL, domains)<br><br>API reliability patterns (retry, timeout, circuit breaker, rate-limits)<br><br>💬 Ask me about:<br><br>Django / Django REST Framework<br><br>API integrations & webhooks<br><br>Authentication (JWT, cookies, refresh tokens)<br><br>Redis + Celery background tasks<br><br>Automation bots (Playwright / Telegram bot with python-telegram-bot)<br><br>⚡ Fun fact:<br>I love building systems where one click triggers everything automatically — from payments to background processing to real-time updates 🚀
+# Hi 👋, I'm Ajay Ghosh  
+### Python Developer | Django & API Specialist | Automation + Payment Integrations 🚀  
+
+I’m a backend-focused developer who builds scalable web apps using **Python + Django + DRF**, with strong experience in **API integrations, payment systems, automation, and real-world production deployment**.
+
+---
+
+## 🔭 I’m currently working on  
+✅ **eSIM Platform** — including multiple **payment provider integrations** (API-based), transaction tracking, webhook handling, and secure checkout flow.
+
+---
+
+## 👯 I’m looking to collaborate on  
+- Django / Django REST Framework projects  
+- Payment Gateway integrations (Visa/Mastercard supported providers, crypto, wallets, etc.)  
+- Celery + Redis background task systems  
+- Automation workflows using Playwright  
+- Web scraping / crawler systems  
+
+---
+
+## 🤝 I’m looking for help with  
+- Scaling production systems (Celery workers + Redis queues + Gunicorn stability)  
+- Payment security best practices (webhook verification, fraud prevention, PCI-safe flows)  
+- Clean architecture for large Django codebases  
+
+---
+
+## 🌱 I’m currently learning  
+- Advanced Celery orchestration & monitoring  
+- Better DevOps deployment practices (systemd, Nginx, SSL, domains)  
+- Building more resilient API systems (retries, rate limits, circuit breaker patterns)
+
+---
+
+## 💬 Ask me about  
+✅ Django / DRF  
+✅ API Integrations + Webhooks  
+✅ JWT Authentication & secure cookies  
+✅ Celery + Redis task queues  
+✅ Automation bots (Playwright, Telegram bots)  
+✅ Deploying Django apps on Linux servers  
+
+---
+
+## ⚡ Fun fact  
+I love building systems where **one click triggers everything automatically** — from payment → processing → database → realtime status updates 😄⚙️
+
+---
+
+## 🛠️ Tech Stack  
+
+**Backend & APIs**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+
+**Async & Automation**  
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Frontend Basics**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**DevOps & Deployment**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+---
+
+## 📌 Featured Projects  
+### 🚀 eSIM Website (Payments + API Integrations)
+- Multi-provider payment integration  
+- Secure transaction verification + webhook processing  
+- Clean Django architecture + production deployment friendly setup
+
+### 🤖 Automation System (Playwright + Celery)
+- Automated login & purchase workflows  
+- Persistent sessions + background task queue  
+- Error logging + retry-ready structure  
+
+### 🧩 Management Platforms (Django)
+- Online Bus Ticket System (routes, bookings, users, admin flows)  
+- Scholarship agency platform (student + agent features)  
+- Attendance system using fingerprint device (Django REST + device interaction)
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with me  
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- LinkedIn: YOUR_LINKEDIN_URL  
+- Email: YOUR_EMAIL  
+
+---
+
+⭐ If you like my work, feel free to follow me and check out my repositories!
 
 
 ## 🌐 Socials:
