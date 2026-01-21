@@ -94,15 +94,15 @@ I love building systems where **one click triggers everything automatically** �
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay016&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay016&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with me  
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- LinkedIn: YOUR_LINKEDIN_URL  
-- Email: YOUR_EMAIL  
+- GitHub: https://github.com/ajay016  
+- LinkedIn: https://linkedin.com/in/ajay-ghosh  
+- Email: ajayghosh28@gmail.com  
 
 ---
 
