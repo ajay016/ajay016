@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/ajay-ghosh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ajayghosh28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/user2972318"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/2972318/ajay"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 📍 Dhaka, Bangladesh &nbsp;·&nbsp; **3+ years of professional experience** &nbsp;·&nbsp; Python / Django / PostgreSQL
