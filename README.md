@@ -1,117 +1,127 @@
-<!-- Hero -->
-<h1 align="center">Hi 👋, I'm Ajay Ghosh</h1>
-<h3 align="center">Python Developer • Django & API Specialist • Payments • Automation • Scalable Systems 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ajay-ghosh">
-    <img src="https://img.shields.io/badge/LinkedIn-ajay--ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
-  </a>
-  <a href="https://stackoverflow.com/users/user2972318">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F97316?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=111827" />
-  </a>
-  <a href="mailto:ajayghosh28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajayghosh28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
-  </a>
-</p>
+# Ajay Ghosh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+real-world+backend+systems+with+Django+%26+DRF;Payment+Gateway+Integrations+%7C+Webhooks+%7C+Automation;Celery+%2B+Redis+Background+Tasks+%7C+Linux+Deployments" />
-</p>
+### Software Engineer | Backend Engineering | APIs & Distributed Workflows
 
----
+**I build reliable backend systems for real-world transactions, automation, and business operations.**
 
-<!-- Stats near top (modern layout) -->
-<table align="center">
-  <tr>
-    <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajay016&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay016&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=ajay016&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Current Focus
-✅ **eSIM Platform** — multi-provider **payment integrations**, transaction tracking, webhook processing, and secure checkout flow.
-
----
-
-## 💡 What I Do
-- Build scalable backend systems with **Django / DRF**
-- Integrate **payment APIs** (gateway flows + webhooks + verification)
-- Automate workflows using **Playwright + Celery**
-- Deploy production apps on **Linux (Nginx + Gunicorn + SSL)**
-
----
-
-## 🧠 Ask Me About
-✅ Django / DRF • API Integrations • Webhooks • JWT Auth • Celery + Redis • Playwright Automation • Linux Deployments
-
----
-
-## 🛠️ Tech Stack (Modern Badges)
-
-### ⚙️ Backend & APIs
 <p>
-  <img src="https://img.shields.io/badge/Python-60A5FA?style=for-the-badge&logo=python&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Django-34D399?style=for-the-badge&logo=django&logoColor=0B1220&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/DRF-22C55E?style=for-the-badge&logo=django&logoColor=0B1220&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/JWT-93C5FD?style=for-the-badge&logo=jsonwebtokens&logoColor=111827&labelColor=0B1220" />
+  <a href="https://linkedin.com/in/ajay-ghosh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ajayghosh28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/user2972318"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
-### 🗄️ Database & Cache
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-93C5FD?style=for-the-badge&logo=postgresql&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/MySQL-A5B4FC?style=for-the-badge&logo=mysql&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Redis-FCA5A5?style=for-the-badge&logo=redis&logoColor=111827&labelColor=0B1220" />
-</p>
+📍 Dhaka, Bangladesh &nbsp;·&nbsp; **3+ years of professional experience** &nbsp;·&nbsp; Python / Django / PostgreSQL
 
-### ⚡ Async & Automation
-<p>
-  <img src="https://img.shields.io/badge/Celery-86EFAC?style=for-the-badge&logo=celery&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Playwright-4ADE80?style=for-the-badge&logo=playwright&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Selenium-22C55E?style=for-the-badge&logo=selenium&logoColor=111827&labelColor=0B1220" />
-</p>
-
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-FDE68A?style=for-the-badge&logo=linux&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Nginx-6EE7B7?style=for-the-badge&logo=nginx&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Gunicorn-A7F3D0?style=for-the-badge&logo=gunicorn&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Docker-93C5FD?style=for-the-badge&logo=docker&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Postman-FCA5A5?style=for-the-badge&logo=postman&logoColor=111827&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Git-FDA4AF?style=for-the-badge&logo=git&logoColor=111827&labelColor=0B1220" />
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
-### 🚀 eSIM Website (Payments + API Integrations)
-- Multi-provider payment integration  
-- Webhook verification + secure transaction flow  
-- Production-ready backend structure  
+## About Me
 
-### 🤖 Automation System (Playwright + Celery)
-- Automated login & purchase workflows  
-- Persistent sessions + background processing  
-- Error tracking & retry-friendly design  
+I'm a software engineer at **IGL Web Ltd**, focused on backend development with **Python, Django, Django REST Framework, PostgreSQL, Redis, and Celery**.
 
-### 🧩 Management Platforms (Django)
-- Online Bus Ticket Management System  
-- Scholarship Agency Website  
-- Attendance System (Fingerprint + DRF API integration)
+I work on systems where **correctness, concurrency, and reliability matter**: real-time ticket bookings, automated eSIM purchases, biometric attendance, and high-volume background processing. I enjoy turning complex business requirements into maintainable APIs, safe transaction flows, and production-ready services.
+
+## Engineering Impact
+
+| 300+ REST endpoints | 96% fewer DB queries | 50+ bookings/day | 1,580+ automated tests |
+|:---:|:---:|:---:|:---:|
+| HR SaaS APIs | Attendance optimization | Real-time ticketing | Nomadly platform |
+
+## Featured Production Work
+
+### 01 · [Attendance & Payroll Management — HR SaaS](https://workforce.iglweb.com)
+
+**Multi-company workforce management with biometric attendance and payroll workflows.**
+
+- Co-developed the platform in a **two-person team**, integrating ZKTeco fingerprint and face-recognition devices.
+- Built **300+ REST API endpoints** for company, branch, and employee operations, with authentication, rate limiting, and [API documentation](https://workforce.iglweb.com/api/docs).
+- Cut database queries per attendance page from **677 to 27 (~96% reduction)** by persisting computed attendance results.
+- Implemented attendance policies, overtime calculations, a live presence board, and correction workflows.
+
+`Django` `DRF` `PostgreSQL` `ZKTeco` `Swagger`
+
+### 02 · [Nomadly eSIM Platform](https://nomadly.cloud) & [Marketplace](https://marketplace.nomadly.cloud)
+
+**End-to-end eSIM ordering, fulfillment, customer self-service, and AI-assisted support.**
+
+- Integrated **Airalo and eSIM Access** with Digiseller/Plati.market and GGsel marketplaces.
+- Built **idempotent, concurrency-safe order fulfillment** with Celery/Redis, retries, recovery checks, and manual review for uncertain provider responses.
+- Developed a bilingual customer portal with passwordless sign-in, installation guides, real-time usage visibility, and automated alerts.
+- Built a context-aware **AI support assistant** for eSIM troubleshooting, with human-agent handoff and operator tools.
+- Added **1,580+ automated tests**; the AI support test suite passes **123 of 124 scenarios**.
+
+`Django` `DRF` `Celery` `Redis` `Provider APIs` `AI Integration`
+
+### 03 · [MK Shipping — Real-Time Ticketing](https://mkshippinglines.com)
+
+**Concurrent ticket booking with real-time inventory updates.**
+
+- Engineered seat-availability broadcasting using **Django Channels, WebSockets, and Redis**.
+- Built dynamic vessel layouts for **seats, cabins, and vehicle bookings**, with multi-stop route pricing.
+- Supports **50+ daily bookings** and **BDT 1.1M+ in monthly ticket sales**.
+
+`Django` `Channels` `WebSockets` `Redis` `JavaScript`
+
+### 04 · [Razer Bulk Automation](https://rzrautobot.com)
+
+**High-throughput purchasing automation with concurrent workers and reliable task orchestration.**
+
+- Developed automated purchase workflows using **Playwright**, persistent sessions, and parallel processing.
+- Implemented Celery/Redis task queues, retry handling, rate-limit management, and operational monitoring.
+
+`Python` `Playwright` `Celery` `Redis` `Concurrency`
+
+<details>
+<summary><strong>Other work</strong></summary>
+<br />
+
+- **[Felna Tech E-commerce](https://felnatech.com)** — Multi-vendor product/order management, backend APIs, and authentication.
+- **[Telegram Voucher Bot](https://t.me/MSNGAMER_E_STORE_BOT)** — Automated voucher purchasing and transaction API integrations.
+- **Facebook Messenger Admin** — Real-time conversation management through the Meta API.
+
+</details>
+
+## Technology Stack
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data, Async & Real-Time**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-1F2937?style=flat-square)
+
+**Automation & Deployment**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## What I Care About
+
+`Reliable transactions` · `API design` · `Concurrency control` · `Database optimization` · `Background jobs` · `Automated testing` · `Production debugging`
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ajay016&icon=0&color=6" />
-</p>
+<div align="center">
 
-⭐ If you like my work, feel free to follow me and check out my repositories!
+**Interested in backend engineering, system reliability, or automation?**
+
+[Connect on LinkedIn](https://linkedin.com/in/ajay-ghosh) · [Send me an email](mailto:ajayghosh28@gmail.com)
+
+<sub>Some featured projects are commercial systems; their production source code is not publicly available.</sub>
+
+</div>
