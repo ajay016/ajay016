@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ajay-tech-banner.png" alt="Ajay Ghosh — Software Engineer | Backend Engineering, APIs & Distributed Systems" width="100%" />
+</p>
+
 <div align="center">
 
 # Ajay Ghosh
